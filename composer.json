@@ -1,0 +1,24 @@
+{
+  "name": "falkroeder/recurr",
+  "type": "typo3-cms-extension",
+  "description": "Provides the Recurr Library https://github.com/simshaun/recurr for Extbase Extensions",
+  "license": [
+    "GPL-2.0+"
+  ],
+  "keywords": [
+    "typo3",
+    "cms",
+    "recurr",
+  ],
+  "version": "1.0.0",
+  "require": {
+    "typo3/cms-core": ">=7.6.0",
+  },
+  "suggest": {
+  },
+  "autoload": {
+    "psr-0": {
+      "Recurr": "Vendor/"
+    }
+  }
+}
