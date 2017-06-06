@@ -8,11 +8,11 @@
   "keywords": [
     "typo3",
     "cms",
-    "recurr",
+    "recurr"
   ],
   "version": "1.0.0",
   "require": {
-    "typo3/cms-core": ">=7.6.0",
+    "typo3/cms-core": ">=7.6.0"
   },
   "suggest": {
   },
