@@ -18,7 +18,8 @@
   },
   "autoload": {
     "psr-0": {
-      "Recurr": "Vendor/"
+      "Recurr": "Vendor/",
+      "Doctrine\\Common\\Collections\\": "lib/"
     }
   }
 }
